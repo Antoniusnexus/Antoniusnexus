@@ -16,6 +16,41 @@
 </p>
 
 <!-- ============================================================ -->
+<!--  NEOFETCH / LINUX ASCII ART HEADING                           -->
+<!-- ============================================================ -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
+    <defs>
+      <linearGradient id="fetchBg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#001a08" stop-opacity="0.9"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
+      </linearGradient>
+    </defs>
+    <rect x="10" y="10" width="740" height="250" rx="10" fill="url(#fetchBg)" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+    <rect x="10" y="10" width="740" height="34" rx="10" fill="#0a0a0a" stroke="#39FF14" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="32" cy="27" r="5" fill="#39FF14" opacity="0.85"/>
+    <circle cx="50" cy="27" r="5" fill="#39FF14" opacity="0.5"/>
+    <circle cx="68" cy="27" r="5" fill="#39FF14" opacity="0.25"/>
+    <text x="380" y="32" text-anchor="middle" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="12" opacity="0.7">nexus_lab — neofetch — tty1</text>
+
+    <!-- tux ascii art -->
+    <text x="40" y="72" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="13" xml:space="preserve"><tspan x="40" dy="0">        .--.</tspan><tspan x="40" dy="16">       |o_o |</tspan><tspan x="40" dy="16">       |:_/ |</tspan><tspan x="40" dy="16">      //   \ \</tspan><tspan x="40" dy="16">     (|     | )</tspan><tspan x="40" dy="16">    /'\_   _/`\</tspan><tspan x="40" dy="16">    \___)=(___/</tspan></text>
+
+    <!-- neofetch info fields -->
+    <text x="290" y="72" font-family="'JetBrains Mono',monospace" font-size="13.5" xml:space="preserve">
+      <tspan x="290" dy="0" fill="#39FF14" font-weight="700">root@nexus</tspan>
+      <tspan x="290" dy="18" fill="#39FF14">-----------</tspan>
+      <tspan x="290" dy="22"><tspan fill="#39FF14">OS</tspan><tspan fill="#c9ffd1">        NexusOS x86_64</tspan></tspan>
+      <tspan x="290" dy="20"><tspan fill="#39FF14">Kernel</tspan><tspan fill="#c9ffd1">    6.9.1-nexus-lab</tspan></tspan>
+      <tspan x="290" dy="20"><tspan fill="#39FF14">Shell</tspan><tspan fill="#c9ffd1">     zsh 5.9</tspan></tspan>
+      <tspan x="290" dy="20"><tspan fill="#39FF14">DE</tspan><tspan fill="#c9ffd1">        tmux + neovim</tspan></tspan>
+      <tspan x="290" dy="20"><tspan fill="#39FF14">Uptime</tspan><tspan fill="#c9ffd1">    running since day one</tspan></tspan>
+      <tspan x="290" dy="20"><tspan fill="#39FF14">Focus</tspan><tspan fill="#c9ffd1">     AI Agents / FinTech / OffSec</tspan></tspan>
+    </text>
+  </svg>
+</p>
+
+<!-- ============================================================ -->
 <!--  ABOUT / TERMINAL PANEL                                       -->
 <!-- ============================================================ -->
 <p align="center">
@@ -111,10 +146,10 @@
 
 **`agents & ai`**
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=000000&color=39FF14" />
   <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=39FF14&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&logo=anthropic&logoColor=39FF14&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=databricks&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&labelColor=000000&color=39FF14" />
+  <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=pinecone&logoColor=39FF14&labelColor=000000" />
 </p>
 
 **`data & storage`**
@@ -136,9 +171,9 @@
 
 **`security toolkit`**
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&labelColor=000000&color=39FF14" />
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&labelColor=000000&color=39FF14" />
   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14&labelColor=000000" />
 </p>
 
@@ -190,7 +225,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniusnexus&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Antoniusnexus&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak stats" />
 </p>
 
 <!-- ============================================================ -->
