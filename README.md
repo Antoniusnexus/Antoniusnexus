@@ -2,7 +2,7 @@
 <!--  HEADER                                                       -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0b1220,100:123255&height=200&section=header&text=Antoniusnexus&fontSize=42&fontColor=7DD3FC&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Glass%20UI%20Architect&descAlignY=55&descSize=16&descAlign=50" alt="Antoniusnexus — Python Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0b1220,100:123255&height=200&section=header&text=Antoniusnexus&fontSize=42&fontColor=7DD3FC&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%&descAlignY=55&descSize=16&descAlign=50" alt="Antoniusnexus — Python Developer" />
 </p>
 
 <p align="center">
