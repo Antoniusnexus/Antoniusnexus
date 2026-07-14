@@ -223,3 +223,200 @@ projects/
 ```
 
 ---
+
+# root@nexus:~$ ls arsenal
+
+> Loading installed technologies...
+
+## Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,bash,html,css"/>
+
+</p>
+
+---
+
+## Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,electron,nodejs,fastapi,flask,tensorflow"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+
+<img src="https://img.shields.io/badge/Oracle-39FF14?style=for-the-badge&logo=oracle&logoColor=white&labelColor=000000"/>
+
+</p>
+
+---
+
+## Infrastructure
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx"/>
+
+</p>
+
+---
+
+## AI Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-39FF14?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/LangChain-39FF14?style=for-the-badge&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/ONNX-39FF14?style=for-the-badge&logo=onnx&logoColor=white&labelColor=000000"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-39FF14?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+
+</p>
+
+---
+
+# root@nexus:~$ systemctl status antonius-nexus
+
+```text
+● antonius-nexus.service
+
+Loaded: loaded (/etc/systemd/system/nexus.service)
+
+Active: active (running)
+
+Status:
+
+✓ AI Systems Online
+
+✓ Oracle Laboratory Ready
+
+✓ Quant Engine Active
+
+✓ Linux Infrastructure Operational
+
+✓ Electron Runtime Healthy
+
+✓ GitHub Connected
+
+Memory Usage........Stable
+
+CPU.................Nominal
+
+Threat Level........Minimal
+
+```
+
+---
+
+# root@nexus:~$ htop
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Antoniusnexus&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=c9ffd1&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniusnexus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=c9ffd1"/>
+
+</p>
+
+---
+
+# root@nexus:~$ watch contributions
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Antoniusnexus&theme=github-compact&bg_color=000000&color=39FF14&line=39FF14&point=39FF14&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# root@nexus:~$ cat uptime.log
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Antoniusnexus&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14"/>
+
+</p>
+
+---
+
+# root@nexus:~$ cat mission.txt
+
+```text
+The Antonius Nexus Laboratory exists to explore
+
+artificial intelligence,
+
+autonomous software,
+
+quantitative finance,
+
+database systems,
+
+and advanced software engineering.
+
+Current objectives:
+
+• Build autonomous AI agents
+
+• Develop institutional-grade trading systems
+
+• Master Oracle Database Architecture
+
+• Engineer scalable desktop platforms
+
+• Research intelligent automation
+
+Mission Status:
+
+█████████████████████████████ 100%
+
+```
+
+---
+
+# root@nexus:~$ ps aux
+
+| Process | Status |
+|---------|--------|
+| AI Research | 🟢 Running |
+| Oracle Architecture | 🟢 Running |
+| Trading Research | 🟢 Running |
+| Linux Administration | 🟢 Running |
+| Software Engineering | 🟢 Running |
+| Machine Learning | 🟢 Running |
+| Autonomous Agents | 🟢 Running |
+| Infrastructure Research | 🟢 Running |
+
+---
+
+# root@nexus:~$ journalctl --recent
+
+```text
+[INFO] New repositories initialized
+
+[INFO] Research continues
+
+[INFO] AI agent memory expanded
+
+[INFO] Trading infrastructure updated
+
+[INFO] Oracle documentation synchronized
+
+[INFO] Electron desktop improvements committed
+
+[INFO] Laboratory operating normally
+```
+
+---
