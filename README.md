@@ -19,70 +19,14 @@
 <!--  NEOFETCH / LINUX ASCII ART HEADING                           -->
 <!-- ============================================================ -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
-    <defs>
-      <linearGradient id="fetchBg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#001a08" stop-opacity="0.9"/>
-        <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
-      </linearGradient>
-    </defs>
-    <rect x="10" y="10" width="740" height="250" rx="10" fill="url(#fetchBg)" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
-    <rect x="10" y="10" width="740" height="34" rx="10" fill="#0a0a0a" stroke="#39FF14" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="32" cy="27" r="5" fill="#39FF14" opacity="0.85"/>
-    <circle cx="50" cy="27" r="5" fill="#39FF14" opacity="0.5"/>
-    <circle cx="68" cy="27" r="5" fill="#39FF14" opacity="0.25"/>
-    <text x="380" y="32" text-anchor="middle" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="12" opacity="0.7">nexus_lab — neofetch — tty1</text>
-
-    <!-- tux ascii art -->
-    <text x="40" y="72" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="13" xml:space="preserve"><tspan x="40" dy="0">        .--.</tspan><tspan x="40" dy="16">       |o_o |</tspan><tspan x="40" dy="16">       |:_/ |</tspan><tspan x="40" dy="16">      //   \ \</tspan><tspan x="40" dy="16">     (|     | )</tspan><tspan x="40" dy="16">    /'\_   _/`\</tspan><tspan x="40" dy="16">    \___)=(___/</tspan></text>
-
-    <!-- neofetch info fields -->
-    <text x="290" y="72" font-family="'JetBrains Mono',monospace" font-size="13.5" xml:space="preserve">
-      <tspan x="290" dy="0" fill="#39FF14" font-weight="700">root@nexus</tspan>
-      <tspan x="290" dy="18" fill="#39FF14">-----------</tspan>
-      <tspan x="290" dy="22"><tspan fill="#39FF14">OS</tspan><tspan fill="#c9ffd1">        NexusOS x86_64</tspan></tspan>
-      <tspan x="290" dy="20"><tspan fill="#39FF14">Kernel</tspan><tspan fill="#c9ffd1">    6.9.1-nexus-lab</tspan></tspan>
-      <tspan x="290" dy="20"><tspan fill="#39FF14">Shell</tspan><tspan fill="#c9ffd1">     zsh 5.9</tspan></tspan>
-      <tspan x="290" dy="20"><tspan fill="#39FF14">DE</tspan><tspan fill="#c9ffd1">        tmux + neovim</tspan></tspan>
-      <tspan x="290" dy="20"><tspan fill="#39FF14">Uptime</tspan><tspan fill="#c9ffd1">    running since day one</tspan></tspan>
-      <tspan x="290" dy="20"><tspan fill="#39FF14">Focus</tspan><tspan fill="#c9ffd1">     AI Agents / FinTech / OffSec</tspan></tspan>
-    </text>
-  </svg>
+  <img src="./assets/neofetch.svg" alt="neofetch — Nexus Lab system info" width="760" />
 </p>
 
 <!-- ============================================================ -->
 <!--  ABOUT / TERMINAL PANEL                                       -->
 <!-- ============================================================ -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
-    <defs>
-      <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#001a08" stop-opacity="0.9"/>
-        <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
-      </linearGradient>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="1.4" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect x="10" y="10" width="740" height="210" rx="10" fill="url(#termBg)" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
-    <rect x="10" y="10" width="740" height="34" rx="10" fill="#0a0a0a" stroke="#39FF14" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="32" cy="27" r="5" fill="#39FF14" opacity="0.85"/>
-    <circle cx="50" cy="27" r="5" fill="#39FF14" opacity="0.5"/>
-    <circle cx="68" cy="27" r="5" fill="#39FF14" opacity="0.25"/>
-    <text x="380" y="32" text-anchor="middle" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="12" opacity="0.7">nexus_lab — bash — 80x24</text>
-
-    <text x="34" y="72" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="14" filter="url(#glow)">$ cat about.log</text>
-    <text x="34" y="98" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">Founder of the Nexus Lab — a workbench for autonomous AI agents,</text>
-    <text x="34" y="120" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">algorithmic trading infrastructure, and offensive-security tooling.</text>
-    <text x="34" y="142" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">I design systems that think, systems that trade, and systems that</text>
-    <text x="34" y="164" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">probe their own defenses. Python-first. Precision always.</text>
-
-    <text x="34" y="196" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="13.5" filter="url(#glow)">$ <tspan fill="#c9ffd1">_</tspan></text>
-  </svg>
+  <img src="./assets/about-panel.svg" alt="About — Nexus Lab" width="760" />
 </p>
 
 <!-- ============================================================ -->
@@ -130,10 +74,7 @@
 <!--  STACK                                                        -->
 <!-- ============================================================ -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60">
-    <rect x="10" y="10" width="740" height="40" rx="8" fill="#000000" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1.2"/>
-    <text x="34" y="35" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">$ ls ./stack/</text>
-  </svg>
+  <img src="./assets/stack-header.svg" alt="$ ls ./stack/" width="760" />
 </p>
 
 **`core`**
@@ -181,10 +122,7 @@
 <!--  CONNECT                                                      -->
 <!-- ============================================================ -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60">
-    <rect x="10" y="10" width="740" height="40" rx="8" fill="#000000" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1.2"/>
-    <text x="34" y="35" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">$ ./connect --secure</text>
-  </svg>
+  <img src="./assets/connect-header.svg" alt="$ ./connect --secure" width="760" />
 </p>
 
 <p align="center">
@@ -209,10 +147,7 @@
 <!--  SIGNAL — stats                                               -->
 <!-- ============================================================ -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60">
-    <rect x="10" y="10" width="740" height="40" rx="8" fill="#000000" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1.2"/>
-    <text x="34" y="35" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">$ ./scan --self --verbose</text>
-  </svg>
+  <img src="./assets/signal-header.svg" alt="$ ./scan --self --verbose" width="760" />
 </p>
 
 <p align="center">
