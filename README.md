@@ -1,159 +1,209 @@
-<div align="center">
+<!-- ============================================================ -->
+<!--  HEADER                                                       -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a08,100:003310&height=210&section=header&text=ANTONIUS%20NEXUS&fontSize=44&fontColor=39FF14&animation=twinkling&fontAlignY=32&desc=%3C%20LAB%20%2F%2F%20AI%20AGENTS%20%2F%2F%20FINTECH%20%2F%2F%20OFFSEC%20%3E&descAlignY=55&descSize=15&descAlign=50" alt="Antonius Nexus — Lab" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=900&color=00FF41&center=true&vCenter=true&width=680&height=45&lines=INITIALIZING+ANTONIUS_NEXUS...;LOADING+AI+AGENT+CORE...;COMPILING+SECURITY+TOOLKITS...;STATUS%3A+ONLINE" alt="typing banner" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=39FF14&center=true&vCenter=true&width=680&height=45&lines=root%40nexus%3A~%24+whoami;building+autonomous+agents...;engineering+trading+systems...;breaking+things+to+build+them+stronger." alt="Typing SVG" />
+</p>
 
-```
- █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ██╗██╗██╗   ██╗███████╗
-██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗████╗  ██║██║██║   ██║██╔════╝
-███████║██╔██╗ ██║   ██║   ██║   ██║██╔██╗ ██║██║██║   ██║███████╗
-██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╗██║██║██║   ██║╚════██║
-██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚████║██║╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚══════╝
-                     N E X U S   L A B
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ACCESS-ROOT-39FF14?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-39FF14?style=for-the-badge&labelColor=000000" />
+</p>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0A0F0A&logo=vercel&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_5-FF00C8?style=for-the-badge&labelColor=0A0F0A" />
-<img src="https://img.shields.io/badge/UPTIME-24%2F7-00FF41?style=for-the-badge&labelColor=0A0F0A" />
+<!-- ============================================================ -->
+<!--  ABOUT / TERMINAL PANEL                                       -->
+<!-- ============================================================ -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+    <defs>
+      <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#001a08" stop-opacity="0.9"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0.95"/>
+      </linearGradient>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="1.4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect x="10" y="10" width="740" height="210" rx="10" fill="url(#termBg)" stroke="#39FF14" stroke-opacity="0.55" stroke-width="1.4"/>
+    <rect x="10" y="10" width="740" height="34" rx="10" fill="#0a0a0a" stroke="#39FF14" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="32" cy="27" r="5" fill="#39FF14" opacity="0.85"/>
+    <circle cx="50" cy="27" r="5" fill="#39FF14" opacity="0.5"/>
+    <circle cx="68" cy="27" r="5" fill="#39FF14" opacity="0.25"/>
+    <text x="380" y="32" text-anchor="middle" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="12" opacity="0.7">nexus_lab — bash — 80x24</text>
 
-</div>
+    <text x="34" y="72" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="14" filter="url(#glow)">$ cat about.log</text>
+    <text x="34" y="98" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">Founder of the Nexus Lab — a workbench for autonomous AI agents,</text>
+    <text x="34" y="120" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">algorithmic trading infrastructure, and offensive-security tooling.</text>
+    <text x="34" y="142" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">I design systems that think, systems that trade, and systems that</text>
+    <text x="34" y="164" fill="#c9ffd1" font-family="'JetBrains Mono',monospace" font-size="13.5">probe their own defenses. Python-first. Precision always.</text>
 
-<br>
+    <text x="34" y="196" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="13.5" filter="url(#glow)">$ <tspan fill="#c9ffd1">_</tspan></text>
+  </svg>
+</p>
 
-## `$ whoami`
-
-```yaml
-name:            Antonius Nexus
-role:            AI Systems Architect · Security Researcher
-specialization:  Security Tooling · Autonomous AI Agents · FinTech Systems
-mission:         Building the tools that build the next generation of tools
-status:          Open to collaboration
-```
-
-<br>
-
-## `$ ls ./focus_areas`
-
-<table>
+<!-- ============================================================ -->
+<!--  FOCUS AREAS                                                  -->
+<!-- ============================================================ -->
+<table align="center">
 <tr>
 <td width="33%" valign="top">
 
-### 🛡️ `security_tools/`
-Building defensive & offensive-research **security tooling** — OSINT frameworks, recon automation, and pentesting suites for authorized research and red-team work.
+### `[ 01 ]` AI Agents
+```
+> autonomous pipelines
+> LLM tool-orchestration
+> multi-agent systems
+> RAG + memory layers
+```
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 `ai_agents/`
-Designing **autonomous AI agents** for research, analysis, and workflow automation using LangChain, LlamaIndex, and CrewAI-based multi-agent systems.
+### `[ 02 ]` FinTech
+```
+> quant strategy backtesting
+> market data pipelines
+> risk & portfolio tooling
+> broker API integrations
+```
 
 </td>
 <td width="33%" valign="top">
 
-### 💹 `fintech_systems/`
-Engineering **financial intelligence tools** — market data pipelines, algorithmic strategy backtesting, and AI-assisted trading research systems.
+### `[ 03 ]` Security Research
+```
+> vulnerability research
+> CTF & pentest labs
+> secure infra hardening
+> defensive tooling
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+<!-- ============================================================ -->
+<!--  STACK                                                        -->
+<!-- ============================================================ -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60">
+    <rect x="10" y="10" width="740" height="40" rx="8" fill="#000000" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="34" y="35" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">$ ls ./stack/</text>
+  </svg>
+</p>
 
-## `$ cat tech_stack.conf`
+**`core`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14&labelColor=000000" />
+</p>
 
-<div align="center">
+**`agents & ai`**
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Anthropic_API-000000?style=for-the-badge&logo=anthropic&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge&logo=databricks&logoColor=39FF14&labelColor=000000" />
+</p>
 
-**Languages**
+**`data & storage`**
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14&labelColor=000000" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-0A0F0A?style=for-the-badge&logo=python&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/TypeScript-0A0F0A?style=for-the-badge&logo=typescript&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Bash-0A0F0A?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+**`infra & ops`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=39FF14&labelColor=000000" />
+</p>
 
-**AI / Agent Frameworks**
+**`security toolkit`**
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=39FF14&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14&labelColor=000000" />
+</p>
 
-<img src="https://img.shields.io/badge/LangChain-0A0F0A?style=for-the-badge&logo=langchain&logoColor=FF00C8" />
-<img src="https://img.shields.io/badge/LlamaIndex-0A0F0A?style=for-the-badge&logoColor=FF00C8" />
-<img src="https://img.shields.io/badge/CrewAI-0A0F0A?style=for-the-badge&logoColor=FF00C8" />
+<!-- ============================================================ -->
+<!--  CONNECT                                                      -->
+<!-- ============================================================ -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60">
+    <rect x="10" y="10" width="740" height="40" rx="8" fill="#000000" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="34" y="35" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">$ ./connect --secure</text>
+  </svg>
+</p>
 
-**Backend & Web**
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-ntege-26985a340" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" />
+  </a>
+  <a href="https://x.com/@AntoniusNexus" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14&labelColor=000000" />
+  </a>
+  <a href="https://instagram.com/@antoniusnexus" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14&labelColor=000000" />
+  </a>
+  <a href="https://youtube.com/@antoniusnexus" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=39FF14&labelColor=000000" />
+  </a>
+  <a href="mailto:ntegeantonio@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/FastAPI-0A0F0A?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Django-0A0F0A?style=for-the-badge&logo=django&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Flask-0A0F0A?style=for-the-badge&logo=flask&logoColor=00FF41" />
+<!-- ============================================================ -->
+<!--  SIGNAL — stats                                               -->
+<!-- ============================================================ -->
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="760" height="60" viewBox="0 0 760 60">
+    <rect x="10" y="10" width="740" height="40" rx="8" fill="#000000" stroke="#39FF14" stroke-opacity="0.5" stroke-width="1.2"/>
+    <text x="34" y="35" fill="#39FF14" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="700" letter-spacing="2">$ ./scan --self --verbose</text>
+  </svg>
+</p>
 
-**Security & Automation**
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Antoniusnexus&show_icons=true&theme=chartreuse-dark&title_color=39FF14&icon_color=39FF14&text_color=c9ffd1&hide_border=true&bg_color=00000000&count_private=true&ring_color=39FF14" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniusnexus&layout=compact&theme=chartreuse-dark&title_color=39FF14&text_color=c9ffd1&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+</p>
 
-<img src="https://img.shields.io/badge/Scapy-0A0F0A?style=for-the-badge&logo=python&logoColor=FF00C8" />
-<img src="https://img.shields.io/badge/Selenium-0A0F0A?style=for-the-badge&logo=selenium&logoColor=FF00C8" />
-<img src="https://img.shields.io/badge/Playwright-0A0F0A?style=for-the-badge&logo=playwright&logoColor=FF00C8" />
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Antoniusnexus&bg_color=00000000&color=39FF14&line=39FF14&point=c9ffd1&area=true&area_color=39FF14&hide_border=true&custom_title=Nexus%20Lab%20%2F%2F%20Contribution%20Timeline" alt="Contribution graph" />
+</p>
 
-**Infrastructure**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antoniusnexus&theme=dark&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="Streak stats" />
+</p>
 
-<img src="https://img.shields.io/badge/PostgreSQL-0A0F0A?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Redis-0A0F0A?style=for-the-badge&logo=redis&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Supabase-0A0F0A?style=for-the-badge&logo=supabase&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Docker-0A0F0A?style=for-the-badge&logo=docker&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kubernetes-0A0F0A?style=for-the-badge&logo=kubernetes&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Cloudflare-0A0F0A?style=for-the-badge&logo=cloudflare&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Vercel-0A0F0A?style=for-the-badge&logo=vercel&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Nginx-0A0F0A?style=for-the-badge&logo=nginx&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Linux-0A0F0A?style=for-the-badge&logo=linux&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0A0F0A?style=for-the-badge&logo=githubactions&logoColor=00FF41" />
+<!-- ============================================================ -->
+<!--  FOOTER                                                       -->
+<!-- ============================================================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003310,50:001a08,100:000000&height=100&section=footer" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=4000&pause=1500&color=39FF14&center=true&vCenter=true&width=500&height=25&lines=connection+closed+%E2%80%94+session+logged+%E2%80%94+nexus_lab" alt="footer typing" />
+</p>
 
-<br>
-
-## `$ ./run --list-projects`
-
-<div align="center">
-
-| ID | PROJECT | DESCRIPTION | STATUS |
-|:--:|:--|:--|:--:|
-| `01` | **NEXUS_SCAN** | OSINT & reconnaissance toolkit for authorized security research | 🟢 `active` |
-| `02` | **NEURAL_TRADER** | Autonomous AI agent framework for financial data analysis & strategy research | 🟢 `active` |
-| `03` | **AGENTFORGE** | Modular multi-agent orchestration framework built on LangChain/CrewAI | 🟡 `in-dev` |
-
-</div>
-
-<br>
-
-## `$ ping antonius --socials`
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A0F0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X-0A0F0A?style=for-the-badge&logo=x&logoColor=00FF41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0A0F0A?style=for-the-badge&logo=instagram&logoColor=FF00C8" /></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-0A0F0A?style=for-the-badge&logo=youtube&logoColor=FF00C8" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0A0F0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-
-</div>
-
-<br>
-
-## `$ fetch --stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Antoniusnexus&show_icons=true&theme=transparent&title_color=00FF41&icon_color=FF00C8&text_color=C8FFE0&hide_border=true&bg_color=0A0F0A&count_private=true&ring_color=00FF41" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniusnexus&layout=compact&theme=transparent&title_color=00FF41&text_color=C8FFE0&hide_border=true&bg_color=0A0F0A&langs_count=8" alt="Top languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Antoniusnexus&bg_color=0A0F0A&color=00FF41&line=FF00C8&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=Antonius%27s%20Activity%20Log" alt="Activity graph" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-$ echo "thanks for stopping by the lab."
-> thanks for stopping by the lab.
-```
-
-<img src="https://img.shields.io/badge/-00FF41?style=flat-square&labelColor=00FF41" width="60" />
-<img src="https://img.shields.io/badge/-FF00C8?style=flat-square&labelColor=FF00C8" width="60" />
-<img src="https://img.shields.io/badge/-0A0F0A?style=flat-square&labelColor=0A0F0A" width="60" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Antoniusnexus&label=profile%20views&color=000000&style=for-the-badge" alt="Profile views" />
+</p>
